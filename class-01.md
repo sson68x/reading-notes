@@ -19,7 +19,7 @@
 - Small websites are often written just using HTML and CSS.
 - Larger websites often make use of more complex technologies on the web server.
 - Larger, more complex sites may use a database to store data, and programming languages suchs as PHP, ASP.NET, Java, or Ruby on the web server.
-#### HTML5 % CSS3
+#### HTML5 & CSS3
 - Since the web was first created there have been several versions of HTML and CSS.
 
 ## How the Web Works
