@@ -26,8 +26,6 @@
 - When you visit a website, the web server hosting that site could be anywhere in the world.
 - In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 1. When you connect to the web, you do so via an Internet Service Provider (ISP). You type a domain name or web address into your browser to visit a site.
-   - Ex: google.com, bbc.co.uk, microsoft.com
 2. Your computer contacts a network of server called Domain Name System (DNS) server. Every device on the web has a unique IP address.
 3. The unique number that the DNS server returns to your cmoputer allows your browser to contact the web server that host the website you requested.
 4. The web server then sends the page you requested back to your web browser.
-
