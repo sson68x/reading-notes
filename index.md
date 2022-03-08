@@ -29,4 +29,4 @@
    - Ex: google.com, bbc.co.uk, microsoft.com
 2. Your computer contacts a network of server called Domain Name System (DNS) server. Every device on the web has a unique IP address.
 3. The unique number that the DNS server returns to your cmoputer allows your browser to contact the web server that host the website you requested.
-4. The web server then sends the page you requested back to your web browser.
+4. The web server then sends the page you requested back to your web browser
