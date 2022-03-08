@@ -9,5 +9,6 @@ Table of Contents
 
 
 **Reading notes on JavaScript & jQuery**
+
 Table of Contents
 - [Intro to JavaScript]
