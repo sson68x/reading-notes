@@ -11,4 +11,4 @@ Table of Contents
 **Reading notes on JavaScript & jQuery**
 
 Table of Contents
-- [Intro to JavaScript]
+- [Intro to JavaScript](201-01-01.md)
