@@ -12,5 +12,5 @@ Table of Contents
 
 Table of Contents
 - [Intro to JavaScript](201-01-01.md)
-- [Ch.02 - Basic JavaScript Instructions]
-- [Ch.04 - Decisions & Loops]
+- [Ch.02 - Basic JavaScript Instructions](201-02-03.md)
+- [Ch.04 - Decisions & Loops](201-02-04.md)
