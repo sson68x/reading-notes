@@ -1,4 +1,4 @@
-# Code 201 Reading Notes on HTML & CSS
+# Code 201 Reading Notes
 ## How People Access the Web
 #### BROWSERS
 - People access websites using software called a **_web browser_**.
