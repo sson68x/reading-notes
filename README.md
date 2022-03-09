@@ -3,7 +3,9 @@
 Table of Contents
 - [Intro to HTML & CSS](201-01.md)
 - [Ch.02 - Text](201-02-01.md)
+- [Ch.03 - Lists](201-03-01.md)
 - [Ch.10 - Introducing CSS](201-02-02.md)
+- [Ch.13 - Boxes](201-03-02.md)
 
 
 
