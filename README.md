@@ -10,7 +10,7 @@ Table of Contents
 - [Ch.04 - Links](201-04-01.md)
 - [Ch.05 - Images](201-05-01.md)
 - [Ch.10 - Introducing CSS](201-02-02.md)
-- [Ch.11 - Color](201-05-02.md)
+- [Ch.11 - Color](folder201/201-05-02.md)
 - [Ch.12 - Text](201-05-03.md)
 - [Ch.13 - Boxes](201-03-02.md)
 - [Ch.15 - Layout](201-04-02.md)
