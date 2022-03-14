@@ -1,4 +1,4 @@
-# Code 201 Learning Journal
+# Code 201 Reading Notes
 
 ## Reading notes on HTML & CSS
 
