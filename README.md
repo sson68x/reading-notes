@@ -10,10 +10,12 @@ Table of Contents
 - [Ch.04 - Links](201-04-01.md)
 - [Ch.05 - Images](code201/201-05-01.md)
 - [Ch.06 - Tables](code201/201-07-01.md)
+- [Ch.07 - Forms](code201/201-08-01.md)
 - [Ch.10 - Introducing CSS](201-02-02.md)
 - [Ch.11 - Color](code201/201-05-02.md)
 - [Ch.12 - Text](code201/201-05-03.md)
 - [Ch.13 - Boxes](201-03-02.md)
+- [Ch.14 - List,Tables & Forms](code201/201-08-02.md)
 - [Ch.15 - Layout](201-04-02.md)
 
 ## Reading notes on JavaScript & jQuery
@@ -25,3 +27,4 @@ Table of Contents
 - [Ch.03 - Functions, Methods, and Objects](201-04-03.md)
 - [Ch.04 - Decisions & Loops](201-02-04.md)
 - [Ch.05 - Document Object Model](code201/06-01.md)
+- [Ch.06 - Events](code201/201-08-03.md)
