@@ -28,4 +28,4 @@ Table of Contents
 - [Ch.04 - Decisions & Loops](201-02-04.md)
 - [Ch.05 - Document Object Model](code201/06-01.md)
 - [Ch.06 - Events](code201/201-08-03.md)
-- [Ch.10 - Error Handling & Debugging](code201/201-08-04.md)
+- [Ch.10 - Error Handling & Debugging](code201/201-09-01.md)
