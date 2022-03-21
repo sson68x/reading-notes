@@ -17,6 +17,8 @@ Table of Contents
 - [Ch.13 - Boxes](201-03-02.md)
 - [Ch.14 - List,Tables & Forms](code201/201-08-02.md)
 - [Ch.15 - Layout](201-04-02.md)
+- [Ch.16 - Images](code201/201-10-01.md)
+- [Ch.19 - Practical Information](code201/201-10-02.md)
 
 ## Reading notes on JavaScript & jQuery
 
