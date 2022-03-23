@@ -27,10 +27,12 @@
 - [Ch.05 - Document Object Model](code201/06-01.md)
 - [Ch.06 - Events](code201/201-08-03.md)
 - [Ch.10 - Error Handling & Debugging](code201/201-09-01.md)
-
 - [Chart.js](code201/201-11-01.md)
 
 ## Canvas API
 
 - [Basic usage of canvas](code201/201-11-02.md)
 - [Drawing shpaes with canvas](code201/201-11-03.md)
+
+## Additional resources
+- [The Past, Present, and Future of Local Storage for Web Applications](code201/201-12-01.md)
