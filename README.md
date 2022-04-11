@@ -1,6 +1,8 @@
-# Code 201 Reading Notes
+# Reading Notes
 
-## Reading notes on HTML & CSS
+## Code 201 - Foundations of Software Development
+
+### Reading notes on HTML & CSS
 
 - [Intro to HTML & CSS](201-01.md)
 - [Ch.02 - Text](201-02-01.md)
@@ -18,7 +20,7 @@
 - [Ch.16 - Images](code201/201-10-01.md)
 - [Ch.19 - Practical Information](code201/201-10-02.md)
 
-## Reading notes on JavaScript & jQuery
+### Reading notes on JavaScript & jQuery
 
 - [Intro to JavaScript](201-01-01.md)
 - [Ch.02 - Basic JavaScript Instructions](201-02-03.md)
@@ -29,10 +31,12 @@
 - [Ch.10 - Error Handling & Debugging](code201/201-09-01.md)
 - [Chart.js](code201/201-11-01.md)
 
-## Canvas API
+### Canvas API
 
 - [Basic usage of canvas](code201/201-11-02.md)
 - [Drawing shpaes with canvas](code201/201-11-03.md)
 
-## Additional resources
+### Additional resources
 - [The Past, Present, and Future of Local Storage for Web Applications](code201/201-12-01.md)
+
+## Code 301 - Intermediate Software Development
