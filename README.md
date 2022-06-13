@@ -11,7 +11,7 @@
 - [Ch.05 - Images](code201/201-05-01.md)
 - [Ch.06 - Tables](code201/201-07-01.md)
 - [Ch.07 - Forms](code201/201-08-01.md)
-- [Ch.10 - Introducing CSS](201-02-02.md)
+- [Ch.10 - Introducing CSS](code201/201-02-02.md)
 - [Ch.11 - Color](code201/201-05-02.md)
 - [Ch.12 - Text](code201/201-05-03.md)
 - [Ch.13 - Boxes](201-03-02.md)
