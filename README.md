@@ -4,7 +4,7 @@
 
 ### Reading notes on HTML & CSS
 
-- [Intro to HTML & CSS](201-01.md)
+- [Intro to HTML & CSS](code201/201-01.md)
 - [Ch.02 - Text](201-02-01.md)
 - [Ch.03 - Lists](201-03-01.md)
 - [Ch.04 - Links](201-04-01.md)
