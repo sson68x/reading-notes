@@ -25,7 +25,7 @@
 - [Intro to JavaScript](code201/201-01-01.md)
 - [Ch.02 - Basic JavaScript Instructions](code201/201-02-03.md)
 - [Ch.03 - Functions, Methods, and Objects](201-04-03.md)
-- [Ch.04 - Decisions & Loops](201-02-04.md)
+- [Ch.04 - Decisions & Loops](code201/201-02-04.md)
 - [Ch.05 - Document Object Model](code201/06-01.md)
 - [Ch.06 - Events](code201/201-08-03.md)
 - [Ch.10 - Error Handling & Debugging](code201/201-09-01.md)
