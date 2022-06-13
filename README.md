@@ -16,7 +16,7 @@
 - [Ch.12 - Text](code201/201-05-03.md)
 - [Ch.13 - Boxes](code201/201-03-02.md)
 - [Ch.14 - List,Tables & Forms](code201/201-08-02.md)
-- [Ch.15 - Layout](201-04-02.md)
+- [Ch.15 - Layout](code201/201-04-02.md)
 - [Ch.16 - Images](code201/201-10-01.md)
 - [Ch.19 - Practical Information](code201/201-10-02.md)
 
@@ -24,7 +24,7 @@
 
 - [Intro to JavaScript](code201/201-01-01.md)
 - [Ch.02 - Basic JavaScript Instructions](code201/201-02-03.md)
-- [Ch.03 - Functions, Methods, and Objects](201-04-03.md)
+- [Ch.03 - Functions, Methods, and Objects](code201/201-04-03.md)
 - [Ch.04 - Decisions & Loops](code201/201-02-04.md)
 - [Ch.05 - Document Object Model](code201/06-01.md)
 - [Ch.06 - Events](code201/201-08-03.md)
