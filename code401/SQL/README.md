@@ -1,5 +1,7 @@
 # Introduction to SQL
 
+A relation database is a collection of information that organizes data points with defined relationships for easy access.
+
 ## Screenshots
 
 ![Practice1](./Practice-1.png)
