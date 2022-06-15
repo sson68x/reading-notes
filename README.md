@@ -40,4 +40,4 @@
 - [The Past, Present, and Future of Local Storage for Web Applications](code201/201-12-01.md)
 
 ## Code 401 - Advanced Software Development
-- [Introduction to SQL](code401/SQL)
+- [Introduction to SQL](code401/SQL/README.md)
