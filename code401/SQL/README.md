@@ -2,5 +2,5 @@
 
 ## 
 
-![Practice 1](Practice 1.png)
+![Practice 1](./Practice 1.png)
 
