@@ -41,3 +41,4 @@
 
 ## Code 401 - Advanced Software Development
 - [Introduction to SQL](code401/SQL/README.md)
+- [Practice in the Terminal](code401/command-line.md)
